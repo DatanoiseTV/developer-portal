@@ -1,7 +1,7 @@
 ---
 title: "Espressif Documentation MCP Server: Power Your AI Agents with Espressif Docs"
 date: 2026-04-08
-lastmod: 2026-05-26
+lastmod: 2026-06-10
 showAuthor: false
 authors:
     - "wang-ning"
@@ -449,3 +449,7 @@ No. The knowledge sources cover the latest ESP-IDF version. Documentation for en
 The MCP server searches either the English or Chinese documentation depending on the language of your query. If your AI agents do not specify the query language, English documentation is returned by default.
 
 Each response includes links to the source documentation pages, so you can refer to the full context of the returned content.
+
+## Related Resources
+
+- [📺 Video: Espressif Documentation MCP Server Getting Started](https://www.youtube.com/watch?v=-gtrmG5-pTU) — A complete walkthrough covering installation, GitHub authentication, and migrating a project from ESP-IDF 5.1 to 6.0 using MCP-retrieved documentation.
